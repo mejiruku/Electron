@@ -35,4 +35,4 @@
 ### 参考
 
 - [Electron](https://qiita.com/udayaan/items/dfb324bc6cadeb9a8f6f)
-- [アイコン] (https://zenn.dev/sprout2000/books/6f6a0bf2fd301c/viewer/13311)
+- [icon] (https://zenn.dev/sprout2000/books/6f6a0bf2fd301c/viewer/13311)
