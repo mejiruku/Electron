@@ -29,7 +29,9 @@
 ### 書き出す mac or win
 
 <a>$ npm run build-mac</a>
+
 <a>or</a>
+
 <a>$ npm run build-win</a>
 
 
