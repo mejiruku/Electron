@@ -22,6 +22,7 @@
 ### 書き出しツールをインストール
 
 <a>$ npm install --save-dev @electron-forge/cli</a>
+
 <a>$ npx electron-forge import</a>
 
 
