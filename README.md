@@ -13,7 +13,7 @@
 <a>windowsはapp.ico,macはapp.iconsが適用されますのでお好きな画像名前をapp.○○○で使ってください。</a>
 <a>画像サイズは 256×256 を推奨します。</a>
 
-## 必ずファイル名で実行してください。cd ~~
+## 必ずフォルダを指定して実行してください。cd ~~
 #### cdする際はVisualStudioCode を使うと楽なのでおすすめです。
 - [VisualStudioCode](https://code.visualstudio.com)
 
