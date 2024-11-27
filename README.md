@@ -14,6 +14,8 @@
 <a>画像サイズは 256×256 を推奨します。</a>
 
 ## 必ずファイル名で実行してください。cd ~~
+#cdする際はVisualStudioCode を使うと楽なのでおすすめです。
+- [VisualStudioCode](https://code.visualstudio.com)
 
 ### 動作確認
 
